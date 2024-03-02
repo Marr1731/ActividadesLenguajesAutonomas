@@ -1,0 +1,35 @@
+# Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes Formales
+
+La Teoría de Autómatas y Lenguajes Formales se centra en el estudio de cómo las máquinas procesan información y cómo se comunican los lenguajes de programación.
+
+ Desde sus inicios en la década de 1940 hasta la actualidad, ha evolucionado para influir en campos como la informática y la lingüística, moldeando el diseño de algoritmos y la inteligencia artificial.
+
+
+
+| Fecha de Aportación |        Investigador              |          Aporte             |   
+|---------------------|----------------------------------|-----------------------------|
+|1879                 |**Friedrich Ludwig Gottlob Frege**|Gottlob Frege concluyó que la aritmética se basa en la lógica formal. Publicó la "Begriffsschrift", una ideografía que presenta un conjunto de símbolos y sintaxis para clarificar las relaciones lógicas contenidas en el lenguaje ordinario.|
+|1887                 |**Giuseppe Peano**                      |Realizo multiples publicaciones, entre las cuales aporto la idea de que es posible poner todas las argumentaciones de la lógica de enunciados y de la lógica de clases en un lenguaje artificial de signos, interconectandolos por medio de implicaciones. Asentando asi el uso de simbolos para el trabajo actual de conjuntos.|
+|1900                 |**David Hilbert**                       |Establecía y defendía que era viable hallar un único sistema en el que todas las matemáticas pudieran basarse, usando axiomas y reglas de inferencia. publico principios de la lógica teórica y problema de la decisión|
+|1930                 |**Stephen Kleene**                      |Contribuyó a los fundamentos de la informática teórica. Proporcionando métodos para determinar qué problemas son solubles. Generó los grados de computabilidad, la jerarquía aritmética, los ordinales computables, la realizabilidad recursiva y la teoría hiperaritética.|
+|1931                 |**Kurt Godele**                         | Generó un teorema de logica matematica, que describe la incompletitud o numeracion godel.|
+|1931                 |**Alonzo Church**                       | Crea la base de los lenguajes funcionales, el calculo lambda y demuestra la existencia de problemas indecibles para este. Coodemustra una formula donde "hipotéticamente la equivalencia entre los conceptos de función computable y máquina de Turing, que expresado en lenguaje corriente vendría a ser, todo algoritmo es equivalente a una máquina de Turing".|
+|1936                 |**Alan Turing**                         | Fue uno de los mas brillantes pensadores, matemáticos de su época y un precursor de la computación moderna, ya que desarrollo un dispositivo teórico que por medio de una tabla de reglas definida podía trabajar símbolos sobre una cinta de acuerdo, mejor conocida como máquina de Turing.Es considerado el padre de la inteligencia artificial y reconocido criptografo, por su destacado aporte con el decifrar los codigos de la maquina enigma.|
+|1938                 |**Claude E Shannon**                         | Matemático y pionero de la computación que realizo múltiples publicaciones en pro de crear las bases para el reconocimiento de la teoría básica de información que podrían procesar las máquinas que serian desarrolladas por los otros pioneros.Otras publicaciones destacadas son, "una teoría matemática de la comunicación", "Programando una computadora para jugar al ajedrez" y "Automata Studies: Annals of Mathematical Studies".|
+|1943                 |**McCulloch-Pittsel**                         | Primer paso hacia el perceptrón que usamos hoy, generando el primer modelo matemático de la humanidad de una neurona biológica. Establecio automatas finitos equivalentes a células.|
+|1943                 |**J Presper Eckert y John Mauchly**           | ENIAC, conocida como la primera maquina computacional de propósito general. Construida usando tubos de vacío para el almacenamiento, bajo la dirección de J Presper Eckert y John Mauchly.Esta computadora era una Turing-completa, digital y a su vez susceptible de reprogramarse, necesitaba de una superficie de 167mts cuadrados, con un peso de 27 tonladas aproximadamente.|
+|1945                 |**JGrace Murray Hopper**           |Oficial de la marina y precursora de uno de los primeros gran ordenadores, el Mark I. Y por medio de la creacion del Mark I, genero un manual que permito uno de los mas grandes logros generaron el primer lenguaje compilador para ordenadores y creo el termino "bug" para referirse a un error de programación.|
+|1956                 |**Noham chomsky**           |Da un gran aporte a la lingüística moderna, con la formulación teórica y el desarrollo del concepto de gramática transformacional y generativa. creando posteriormente su obra "Three models for the description of language" la cual se estableció como un concepto central en informática."una gramática formal es una estructura matemática, consistente en un conjunto de reglas que definen la forma de construir todas y cada una de las cadenas de caracteres que componen un determinado lenguaje".|
+|1959                 |**John Backus**           |Pionero de la informática reconocido por sus brindar dos grandes aportes, como lo son la notación que permite describir la sintaxis de un Lenguaje de programación de alto nivel, conocida como Backus Normal Form y el desarrollar en conjunto con programadores de IBM el primer Lenguaje de programación de alto nivel, llamado FORTRAN.|
+|1959                 |**Edward Forrest Moore**           |Profesor de matemáticas y computación, mas reconocido por inventar la máquina de estados finitos de Moore y ser pionero de la vida artificial. Junto a Claude Shannon realizó un trabajo fundamental en la teoría de la computabilidad. Con John Myhill demostraron el teorema del Jardín del Edén que caracteriza las reglas del autómata celular.|
+|1970                 |**Estephen A cook**           |Profesor de matemáticas y computación, mas reconocido por inventar la máquina de estados finitos de Moore y ser pionero de la vida artificial. Junto a Claude Shannon realizó un trabajo fundamental en la teoría de la computabilidad. Con John Myhill demostraron el teorema del Jardín del Edén que caracteriza las reglas del autómata celular.|
+|1980                 |**MAP**           |Se realzia un intento por estandarizar la comunicación con los PLC por medio del Protocolo de Automatización de Manufactura que genero General Motors en 1962, y posteriormente transferido a la Sociedad de Ingenieros en Manufactura SME.Su objetivo es proporcionar un estándar común que permita compatibilidad entre los dispositivos de comunicación que operan en un ambiente de manufactura pasando a usar una programación simbólica desde un PC, en vez de terminales dedicadas sólo a ese propósito.|
+
+
+# Bibliografias 
+
+1. https://dehesa.unex.es/bitstream/10662/2367/1/978-84-691-6345-0.pdf
+
+2. http://soasv.blogspot.com/2013/12/protocolo-map.html
+
+3.https://interpolados.wordpress.com/2017/01/31/historia-de-la-teoria-de-automatas/
