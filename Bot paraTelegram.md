@@ -1,3 +1,17 @@
+## Descripción del Código
+Este script Python implementa un bot de Telegram que puede realizar operaciones básicas de suma, resta, multiplicación y división. 
+- Cuando un usuario envía el comando `/start`, el bot le da la bienvenida y le proporciona instrucciones sobre cómo utilizarlo. 
+- Al enviar el comando `/help`, el bot responde con información sobre cómo realizar operaciones matemáticas. 
+- Además, el bot puede calcular el resultado de una expresión matemática que un usuario envíe como mensaje de texto y responder con el resultado. 
+- El bot utiliza la función `eval()` para evaluar la expresión matemática ingresada por el usuario.
+
+## Descripción del Código
+
+![Evidencia](https://github.com/Marr1731/ActividadesLenguajesAutonomas/blob/main/img/evidencia.png)
+
+
+## Código
+```python
 import logging
 import re
 import random
@@ -34,7 +48,7 @@ async def calculate(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 def main() -> None:
     """Inicio del bot."""
-    application = Application.builder().token("7091696040:AAEmV6GFv5VT5eJ3Cs7lvaWNjEODwvbPLwc").build()  # Reemplaza "TU_TOKEN_DE_BOT" con tu token de bot de Telegram
+    application = Application.builder().token("TU_TOKEN_DE_BOT").build()  # Reemplaza "TU_TOKEN_DE_BOT" con tu token de bot de Telegram
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help_command))
@@ -45,4 +59,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
